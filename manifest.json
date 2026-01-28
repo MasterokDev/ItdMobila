@@ -1,0 +1,12 @@
+{
+  "name": "ITD Custom Modules",
+  "version": "0.1.0",
+  "minLoaderVersion": "0.1.0",
+  "modules": [
+    { "file": "BannerModule.js" },
+    { "file": "BlacklistModule.js" },
+    { "file": "MentionsModule.js" },
+    { "file": "PrivacyModule.js" },
+    { "file": "VerifiedModule.js" }
+  ]
+}
